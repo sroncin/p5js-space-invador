@@ -1,0 +1,45 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color:lime;
+}
+canvas {
+  display: inline;
+}
+.cabinet-side {
+}
+#spaceInvaders-canvas {
+  border-radius: 25px;
+  background-image: url('./assets/images/bg_invaders.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom 0px center;
+  background-color: rgba(0,0,0,0);
+}
+
+#spaceInvaders-holder {
+  width: 480px;
+}
+
+.soundIcon {
+  position: relative;
+  top:-40px;
+  left:-55px;
+}
+
+.description {
+  text-align: justify;
+  
+  background-image: url('./assets/images/monster_mysterious_v2.png');
+  background-size: 110px 112px;
+  background-repeat: no-repeat;
+  background-position: bottom -50px right 0px;;
+  background-color: rgba(0,0,0,0);
+}
+a {
+  color: #e10c0e;
+}
+a:hover {
+  color: #ffff22;
+}

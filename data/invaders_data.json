@@ -1,0 +1,11 @@
+{
+  "highscore": 6310,
+  "screen": {
+    "fps": 60,
+    "width": 480,
+    "height": 560
+  },
+  "sound": {
+    "enabled": true
+  }
+}
