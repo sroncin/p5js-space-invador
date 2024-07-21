@@ -17,6 +17,6 @@ Shield collision with shots and lasers which is done per pixel and the shield da
 Laser an Shot collision
 The overall result of the game
 
-A playable version of the game is available [here](https://sroncin.github.io/p5js-space-invador/)
+A playable version of the game is available [here](https://editor.p5js.org/stephane.roncin/full/1SqybgJe6)
 
 ![p5js-space-invador](assets/p5js-space-invador.png)
